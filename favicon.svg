@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PromptForge icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0b1220" />
+  <path d="M14 20h36v6H14z" fill="url(#g)" />
+  <path d="M14 30h24v6H14z" fill="#a5b4fc" />
+  <path d="M14 40h30v6H14z" fill="#c4b5fd" />
+  <circle cx="48" cy="43" r="7" fill="url(#g)" />
+</svg>
